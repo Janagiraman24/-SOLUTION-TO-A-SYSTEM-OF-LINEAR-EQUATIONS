@@ -19,8 +19,8 @@ End the program
 # RegisterNumber:212224230101
 ```
 import numpy as np
-a=np.array([[1,3],[2,5]])
-b=np.array([5,-3])
+a=np.array([[1,-3],[3,1]])
+b=np.array([0,10])
 c=np.linalg.solve(a,b)
 print(c)
 ```
