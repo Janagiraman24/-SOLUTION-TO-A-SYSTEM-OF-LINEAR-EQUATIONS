@@ -25,7 +25,8 @@ c=np.linalg.solve(a,b)
 print(c)
 ```
 ## Output:
-<img width="347" height="111" alt="Screenshot 2025-08-14 093201" src="https://github.com/user-attachments/assets/76d0bcad-322d-49bf-958f-b150b6aa6455" />
+<img width="1289" height="862" alt="Screenshot 2025-08-19 184438" src="https://github.com/user-attachments/assets/6d90b835-d2bc-4eb9-a18a-fb0e35f023f0" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
